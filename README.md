@@ -1,4 +1,4 @@
-<img src="https://github.com/rody216/rody216/blob/main/name.gif" alt="hello world"/>
+<img src="https://github.com/rody216/rody216/blob/main/namew.gif" alt="hello world"/>
 
 hello world
 Hi 👋, I'm Rodolfo Alvarez
