@@ -1,6 +1,4 @@
-![name](https://user-images.githubusercontent.com/90144036/221834819-70db669a-cab0-4370-83dc-79828d622df4.gif)
-
-
+<img src="https://github.com/rody216/rody216/blob/main/name.gif" alt="hello world"/>
 
 hello world
 Hi 👋, I'm Rodolfo Alvarez
