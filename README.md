@@ -1,6 +1,5 @@
 <img src="https://github.com/rody216/rody216/blob/main/namew.gif" alt="hello world"/>
 
-hello world
 Hi 👋, I'm Rodolfo Alvarez
 
 
@@ -20,7 +19,7 @@ const aboutMe = {
    },
    currentOccupation: [""],
 };
-🌱 I’m currently learning Ingles, Python
+🌱 I’m currently learning english, Python
 
 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, Sequelize
 
