@@ -27,10 +27,6 @@ const aboutMe = {
 
 📄 Know about my experiences Since 2021.)
 
-
-Connect with me:
-www.linkedin.com/in/rodolfo-alvarez-montes/ https://www.youtube.com/@programacion3470/
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rodolfo-alvarez-montes/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rodolfo-alvarez-montes/" height="30" width="40" /></a>
