@@ -4,6 +4,8 @@ Hi 👋, I'm Rodolfo Alvarez
 
 
 I am 53 years old Colombian who loves technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. The past 2020 year, i rediscovered my passion for programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!
+
+```javascript
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Java, C#],
@@ -19,6 +21,7 @@ const aboutMe = {
    },
    currentOccupation: ["Unemployed"],
 };
+```
 🌱 I’m currently learning english, Python
 
 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, Sequelize
